@@ -1,0 +1,56 @@
+.warning {
+    color: orange;
+}
+.warning.bad {
+    color:darkturquoise;
+}
+#cantmiss{
+    color: rgb(239, 203, 74);
+}
+
+.tablestyle{
+    color: green;
+}
+li, p {
+    text-align: center;
+    color: rgb(27, 63, 219)
+}
+
+.home[city] {
+    color: darkblue;
+}
+
+[city = "favcity"]{
+    color: rgb(151, 252, 151);
+}
+
+.parent-child > li {
+    color:maroon
+}
+
+.ancestor-descendant > li {
+    color: tan
+}
+.nice{
+    background-color: bisque;
+} 
+
+.titlebackground {
+
+    width: 70%;
+    height: 250px;
+
+    background-color: bisque;
+    margin-left: 250px;
+    margin-top: 40px;
+
+    text-align: center;
+    font-size: 50px;
+    color:rgb(27, 25, 192)
+    
+}
+.subtitle {
+    text-align: center;
+    font-size: 15px;
+    color:rgb(27, 25, 192)
+}

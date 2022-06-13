@@ -1,0 +1,14 @@
+div{
+    border: solid 2px rgb(184, 181, 181);
+    margin: 10px;
+} 
+
+
+div.a{
+    text-indent: 100px;
+}
+
+div.bc{
+    background-color: rgb(29, 41, 202);
+    color: bisque;
+}
